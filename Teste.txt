@@ -1,1 +1,1 @@
-Validando nova chave SSHv2
+Validando nova chave SSHv3
